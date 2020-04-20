@@ -128,8 +128,14 @@ hr {
   position: absolute;
   background-color: transparent;
   z-index: 1;
+  color: black;
+  font-size: 3rem;
 }
 
 .goHome:hover .goHomeText { /*Show the dropdown menu only when hovering the logo */
   display: block;
+}
+
+.smallPic {
+  width:50vmin;
 }
