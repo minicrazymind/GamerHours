@@ -83,6 +83,7 @@ hr {
 
 .section > a > img {
   height:20vmin;
+  width:20vmin;
 }
 
 .textSection {
